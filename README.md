@@ -7,9 +7,7 @@
 
 --------------------
 
-# This repository is no longer maintained. Vantage6 now provides a [flexible algorithm boilerplate generator](https://github.com/vantage6/v6-algorithm-template). You can use that via the vantage6 command line interface command ``v6 algorithm create``. 
-
-For more details, see https://docs.vantage6.ai/en/main/algorithms/develop.html.
+# This repository is no longer maintained. Vantage6 now provides a [flexible algorithm boilerplate generator](https://github.com/vantage6/v6-algorithm-template). You can use that via the vantage6 command line interface command ``v6 algorithm create``. For more details, see https://docs.vantage6.ai/en/main/algorithms/develop.html.
 
 # v6-boilerplate-py
 This algorithm is part of the [vantage6](https://vantage6.ai) solution. Vantage6 allowes to execute computations on federated datasets. This repository provides a boilerplate for new algorithms.
